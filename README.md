@@ -1,3 +1,5 @@
+Readme by : lpaube
+
 <div id="top"></div>
 
 Guide to NetPractice
